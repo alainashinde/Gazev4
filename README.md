@@ -7,7 +7,9 @@ NEW FEATURES:
 FEATURES THAT NEED TO BE ADDED IN FUTURE:
 - nicer logo/design touches
 - fix drifting textboxes on side not priority but theyre annoying 
-- reward system in notifications (ur focused for X minutes)
+- reward system in Today Summary (ur focused for X minutes)
+- make sure it doesnt say "you switched tabs" when you switch to a focus site -- make it say "You're focused" or nothing
+- Give a distracted notification if eyes away or face not detected
 
 installation instructions--
 
