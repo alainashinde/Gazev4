@@ -1,3 +1,7 @@
+NEW FEATURES: 
+- Working 'Today's Summary' and 'Recent Events' Log. CSV now updates with eye_tracker.py.
+- Original features still working, i.e. chrome extension, eye tracker, live focus status
+
 installation instructions--
 
 terminal : 
