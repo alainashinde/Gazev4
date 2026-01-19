@@ -3,6 +3,12 @@ NEW FEATURES:
 - Working Chrome notifications
 - Original features still working, i.e. chrome extension, eye tracker, live focus status
 
+
+FEATURES THAT NEED TO BE ADDED IN FUTURE:
+- nicer logo/design touches
+- fix drifting textboxes on side not priority but theyre annoying 
+- reward system in notifications (ur focused for X minutes)
+
 installation instructions--
 
 terminal : 
