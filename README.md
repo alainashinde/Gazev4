@@ -1,5 +1,6 @@
 NEW FEATURES: 
 - Working 'Today's Summary' and 'Recent Events' Log. CSV now updates with eye_tracker.py.
+- Working Chrome notifications
 - Original features still working, i.e. chrome extension, eye tracker, live focus status
 
 installation instructions--
@@ -18,3 +19,7 @@ python3 app/server.py
 In a separate terminal but under the venv, run the eye tracker: python3 eye_tracker.py USERNAME   
 - This opens a webcam window; press 'q' to quit.
 - remember to include username, i.e. 'Alaina' or it will default to default_user and eye_tracker data will not record to CSV
+
+
+Other troubleshooting:
+  - On macOS give permissions to Chrome for notifications + make sure Focus/DnD is off
