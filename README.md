@@ -4,11 +4,12 @@ NEW FEATURES:
 - Original features still working, i.e. chrome extension, eye tracker, live focus status
 
 
-FEATURES THAT NEED TO BE ADDED IN FUTURE:
+FEATURES THAT NEED TO BE FIXED IN FUTURE:
 - nicer logo/design touches
 - fix drifting textboxes on side not priority but theyre annoying 
 - reward system in Today Summary (ur focused for X minutes)
-- make sure it doesnt say "you switched tabs" when you switch to a focus site -- make it say "You're focused" or nothing
+- reward system in notification for every 30 mins or something (good job U focused for X minutes!)
+- make sure it doesnt say "you switched tabs" when you switch to a focus site -- make it say nothing for that
 - Give a distracted notification if eyes away or face not detected
 
 installation instructions--
