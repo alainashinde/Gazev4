@@ -16,7 +16,7 @@ installation instructions--
 
 terminal : 
 
-cd/desktop/filename  
+cd Desktop/filename  
 python3 -m venv venv  
 source venv/bin/activate  
 pip install -r requirements.txt  
